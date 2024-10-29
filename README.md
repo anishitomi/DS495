@@ -9,5 +9,5 @@ Various federal, state and local organizations monitor water quality by collecti
 
 
 # Programming Languages used 
- <img align="left" alt="SDG Goal 3: Good Health and Well-Being" width="30px" style="padding-right:10px;" src="https://www.un.org/sustainabledevelopment/wp-content/uploads/2019/07/E_SDG_Icons-01-300x300.png" />
+ <img align="left" alt="SDG Goal 3: Good Health and Well-Being" width="30px" style="padding-right:10px;" src="https://en.wikipedia.org/wiki/File:Sustainable_Development_Goal_03GoodHealth.svg" />
 
