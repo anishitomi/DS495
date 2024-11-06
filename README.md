@@ -2,9 +2,9 @@
 This is a class for my program where I am required to create a "Research Driven" project. For this specific project, I will be using a pre-existing project that is finished and extending it. 
 
 # Sustainable Development Goals
- <img align="left" alt="SDG Goal 3" width="50px" style="padding-right:40px;" src="https://knowsdgs.jrc.ec.europa.eu/themes/sdgs/assets/img/sdg3.png" />
- <img align="left" alt="SDG Goal 13" width="50px" style="padding-right:40px;" src="https://knowsdgs.jrc.ec.europa.eu/themes/sdgs/assets/img/sdg13.png" /> 
-Here are the SDG Goals that Align with this Project
+ <img align="left" alt="SDG Goal 3" width="100px" style="padding-right:100px;" src="https://knowsdgs.jrc.ec.europa.eu/themes/sdgs/assets/img/sdg3.png" />
+ <img align="left" alt="SDG Goal 13" width="100px" style="padding-right:100px;" src="https://knowsdgs.jrc.ec.europa.eu/themes/sdgs/assets/img/sdg13.png" /> 
+
 
 
 # Project Description
