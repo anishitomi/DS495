@@ -9,6 +9,7 @@ Various federal, state and local organizations monitor water quality by collecti
 
 
 # Programming Languages used 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/b70cdb1a-492e-4340-8bbe-73f047ecc5ec)<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+
 
 
