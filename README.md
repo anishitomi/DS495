@@ -1,11 +1,10 @@
 # Sustainable Development Goals
- <img align="left" alt="SDG Goal 3" width="100px" style="padding-right:100px;" src="https://knowsdgs.jrc.ec.europa.eu/themes/sdgs/assets/img/sdg3.png" />
- <img align="left" alt="SDG Goal 6" width="100px" style="padding-right:100px;" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sustainable_Development_Goal_6.png" />
- <img align="center" alt="SDG Goal 13" width="100px" style="padding-right:100px;" src="https://knowsdgs.jrc.ec.europa.eu/themes/sdgs/assets/img/sdg13.png" /> 
+ <img align="left" alt="SDG Goal 3" width="75px" style="padding-right:75px;" src="https://knowsdgs.jrc.ec.europa.eu/themes/sdgs/assets/img/sdg3.png" />
+ <img align="left" alt="SDG Goal 6" width="75px" style="padding-right:75px;" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sustainable_Development_Goal_6.png" />
+ <img align="center" alt="SDG Goal 13" width="75px" style="padding-right:75px;" src="https://knowsdgs.jrc.ec.europa.eu/themes/sdgs/assets/img/sdg13.png" />  <br> 
 
- <br> 
 
-# DS495 - Data Science Directed Research  <br> 
+# DS495 - Data Science Directed Research 📊 📈 💻  <br> 
  This is a class for my program where I am required to create a "Research Driven" project. For this specific project, I will be using a pre-existing project that is finished and extending it. 
 
 # Project Description 🚰 🌎   <br> 
