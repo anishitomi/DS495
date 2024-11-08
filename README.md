@@ -15,13 +15,7 @@ that these visuals can be useful not only for the scientific community, but also
 Model (TAM) This infrastructure opens up new possibilities for researchers to investigate water quality in diverse watersheds across the nation presenting a valuable contribution to the scientific 
 community’s understanding of water quality and water levels. Integrating these diverse research data sources offers a holistic understanding of the intricate relationship between the water and the 
 aquatic life within Waller Creek. Ultimately, the fusion of technology and environmental science exemplified by this project holds promise for driving advancements in water quality and gage height 
-analysis.
-
-
-
-
-
- <br> 
+analysis.   <br> 
 
 # Programming Languages Used 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
