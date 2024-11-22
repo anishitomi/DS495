@@ -19,7 +19,8 @@ analysis.   <br>
 
 
 # Project Poster <br>
- <img align="center" alt="Poster" width="50px" style="padding-right:50px;" src="![_Nishitomi_CIR4SC_42x56 pptx](https://github.com/user-attachments/assets/ed55bdb0-cfa6-4206-a05d-d95c2cf3ec8f)" />  <br> 
+ <img align="center" alt="Poster" width="50px" style="padding-right:50px;" src="![_Nishitomi_CIR4SC_42x56 pptx](https://github.com/user-attachments/assets/d9b2d20f-7ceb-4ada-b564-5001b8c65fd2)
+" />  <br> 
 
 
 # Programming Languages Used 
