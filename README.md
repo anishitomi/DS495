@@ -17,6 +17,11 @@ community’s understanding of water quality and water levels. Integrating these
 aquatic life within Waller Creek. Ultimately, the fusion of technology and environmental science exemplified by this project holds promise for driving advancements in water quality and gage height 
 analysis.   <br> 
 
+
+# Project Poster <br>
+ <img align="center" alt="Poster" width="50px" style="padding-right:50px;" src="![_Nishitomi_CIR4SC_42x56 pptx](https://github.com/user-attachments/assets/ed55bdb0-cfa6-4206-a05d-d95c2cf3ec8f)" />  <br> 
+
+
 # Programming Languages Used 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
