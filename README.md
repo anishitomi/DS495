@@ -18,7 +18,7 @@ aquatic life within Waller Creek. Ultimately, the fusion of technology and envir
 analysis.   <br> 
 
 
-# Project Poster <br>
+# Poster <br>
  <img align="center" alt="Poster" width="1000px" style="padding-right:1000px;" src="Nishitomi.png" />  <br> 
 
 
