@@ -19,7 +19,7 @@ analysis.   <br>
 
 
 # Project Poster <br>
- <img align="center" alt="Poster" width="1000px" style="padding-right:1000px;" src=" " />  <br> 
+ <img align="center" alt="Poster" width="1000px" style="padding-right:1000px;" src="Nishitomi.png" />  <br> 
 
 
 # Programming Languages Used 
